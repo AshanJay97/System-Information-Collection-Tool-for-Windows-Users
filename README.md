@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Author
-**Your Name**
+**Ashan Wijekoon**
 - [GitHub](https://github.com/AshanJay97)
 - [Email](mailto:wmashan97@yahoo.com)
 
